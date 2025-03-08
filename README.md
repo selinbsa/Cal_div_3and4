@@ -1,0 +1,1 @@
+There are two project in here. One of them calculating if the numbers from 0 to the number taking bye user will divide 3 and 4. And other program calculating max and min value of numbers taking from user.
